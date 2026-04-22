@@ -4,8 +4,8 @@
 # 💫 About Me:
 🔭 I’m currently working on<br>Practicing Flutter and building small apps to strengthen my mobile development skills.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly Flutter or .NET projects where I can learn and contribute.<br><br>🤝 I’m looking for help with<br>Mastering C# and the .NET Framework deeply and improving app architecture.<br><br>🌱 I’m currently learning<br>Flutter, C#, and .NET Framework fundamentals.<br><br>💬 Ask me about<br>My .NET internship projects (EMS & TMS), Flutter learning journey, and coding basics.<br><br>⚡ Fun fact<br>I enjoy turning ideas into structured systems and often learn by building real projects.
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
   <a href="https://linkedin.com/in/shiven-anandam-a597571b1/" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="leftr">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
   </a>
